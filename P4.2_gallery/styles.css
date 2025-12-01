@@ -104,3 +104,53 @@ footer p {
     color: #666;
     font-size: 0.85rem;
 }
+
+/* Modal oculto por defecto */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 1000;
+}
+
+/* Modal visible cuando está activo */
+.modal.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Imagen dentro del modal */
+.modal-content {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+/* Botón de cerrar (X) */
+.modal-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: #fff;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.modal-close:hover {
+    color: #ddd;
+}
+
+/* Texto descriptivo en el modal */
+.modal-caption {
+    position: absolute;
+    bottom: 30px;
+    color: #fff;
+    font-size: 1.1rem;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 8px 16px;
+    border-radius: 4px;
+}
