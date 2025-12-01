@@ -70,3 +70,11 @@ El objetivo de esta práctica es crear una galería de imágenes responsiva y op
 
 - Se entregará un enlace a un repositorio de GitHub con el código fuente de la galería.
 - Se desplegará en GitHubPages
+
+---
+
+## **Proyecto Desplegado**
+
+🔗 **GitHub Pages:** [https://dafnecabreraSanz.github.io/P4.1-Galer-a-responsiva-eficiente/](https://dafnecabreraSanz.github.io/P4.1-Galer-a-responsiva-eficiente/)
+
+📂 **Repositorio:** [https://github.com/DafneCabreraSanz/P4.1-Galer-a-responsiva-eficiente](https://github.com/DafneCabreraSanz/P4.1-Galer-a-responsiva-eficiente)
